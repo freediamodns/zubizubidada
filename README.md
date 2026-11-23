@@ -15,3 +15,7 @@ npm start
 Then open http://localhost:8080. The site is served from `public/`; the KTS Host logo and other local assets are in `public/assets/`.
 
 The previous storefront's private database and billing worker remain server-side, but its account and operations routes are not exposed by the website.
+
+## GitHub Pages
+
+The `Deploy GitHub Pages` workflow publishes the static `public/` site. After the first successful deployment, open https://freediamodns.github.io/zubizubidada/.
