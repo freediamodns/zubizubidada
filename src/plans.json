@@ -1,0 +1,40 @@
+{
+  "Free": {
+    "ram_gib": 2,
+    "disk_gib": 10,
+    "cpu": 50
+  },
+  "Boost": {
+    "ram_gib": 4,
+    "disk_gib": 25,
+    "cpu": 100
+  },
+  "Basic": {
+    "ram_gib": 8,
+    "disk_gib": 50,
+    "cpu": 150,
+    "monthly_usd": 1.5,
+    "lifetime_usd": 12
+  },
+  "Plus": {
+    "ram_gib": 16,
+    "disk_gib": 100,
+    "cpu": 200,
+    "monthly_usd": 3,
+    "lifetime_usd": 24
+  },
+  "Ultra": {
+    "ram_gib": 32,
+    "disk_gib": 250,
+    "cpu": 300,
+    "monthly_usd": 6,
+    "lifetime_usd": 48
+  },
+  "Unlimited": {
+    "ram_gib": 0,
+    "disk_gib": 0,
+    "cpu": 0,
+    "monthly_usd": 12,
+    "lifetime_usd": 144
+  }
+}
