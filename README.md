@@ -18,4 +18,4 @@ The previous storefront's private database and billing worker remain server-side
 
 ## GitHub Pages
 
-The `Deploy GitHub Pages` workflow publishes the static `public/` site. After the first successful deployment, open https://freediamodns.github.io/zubizubidada/.
+The static `public/` site is published from the `gh-pages` branch at https://freediamodns.github.io/zubizubidada/.
